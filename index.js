@@ -1,1 +1,1 @@
-console.log('This example is different!');
+console.log('InfosysVoice Deployed Succesfully');
